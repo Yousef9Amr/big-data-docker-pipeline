@@ -1,0 +1,1 @@
+Insight 3: Number of male and female passengers: {'male': 95, 'female': 88}

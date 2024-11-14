@@ -1,0 +1,1 @@
+Insight 2: Median fare of passengers is 57.0
